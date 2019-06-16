@@ -22,9 +22,6 @@
 #personname{
     color:purple;
 
-#personname {
-    color: red;
-
     font-size: 30px;
     font-weight: bold;
 }
@@ -110,8 +107,18 @@ tr{
 }
 
 #search-artist{
-    color:black;
+    margin-top: 25px;
+    background: content-box;
+    color: white;
+    border: solid 2px;
+    width: 102px;
+    transition-duration: 0.4s;
+    font-size: 15px;
 }
+#search-artist:hover  {
+ width: 120px;
+    
+ }
 
 #lyrics{
     font-family: 'Times New Roman', Times, serif;
@@ -121,4 +128,7 @@ tr{
 #firebase{
     color:white;
 
+}
+.panel-body{
+    text-align: center;
 }
