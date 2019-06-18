@@ -5,7 +5,11 @@
  -------
 
  This application allows user to search for a song and artist can get information about it. Information like albums, videos, lyric, ano others.
+
+Link to the [Site](https://jetenderg.github.io/LyrifyF/)
  
+ ![ alt Page](/assets/images/1560900845340.png)
+
 Requirments
 -------
 
@@ -35,7 +39,9 @@ Built With
 --------
 
 [Bootsrap](https://getbootstrap.com/) CSS FrameWork
+
 [Jquery](https://jquery.com/) Javascript Library
+
 [Firebase](https://firebase.google.com/?gclid=Cj0KCQjw9JzoBRDjARIsAGcdIDVwb8-Vct3rtW31BCL1nfRRqW62Arh8SoxPnN4KUxYHIIdE_f8B8v8aAlgXEALw_wcB) Realtime Database
 
 Authors
